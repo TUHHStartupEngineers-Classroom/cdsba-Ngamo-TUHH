@@ -82,7 +82,7 @@ Use ``` to delimit blocks of source code:
 code
 ```
 
-Add a language to syntax highlight code blocks:
+Add a language to syntax highlights code blocks:
 
 ```{r}
 1 + 1
